@@ -34,6 +34,11 @@ public class TicTacToe {
     }
 
     public String getWinner() {
+        String row = " ";
+        String col = "";
+
+      //  for ( row = 0; row < 3 ; row++) {
+        //    for ( col = 0; col < 3 ; col++) {
 
         return null;
     }
